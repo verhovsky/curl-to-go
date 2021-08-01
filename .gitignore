@@ -1,3 +1,5 @@
 .DS_Store
 Thumbs.db
 _gitignore
+
+curl_params.pickle
